@@ -1,0 +1,11 @@
+{
+  "name": "Remix RecyLink",
+  "description": "Digital bridge connecting informal e-waste collectors with authorized recyclers featuring voice-first assistance, fair pricing, Digital Saathi mode, lot traceability, and role-based workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
